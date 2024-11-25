@@ -1,0 +1,29 @@
+html{
+    height: 120%;
+}
+body{
+    background: linear-gradient(purple, darkorchid);
+    background-repeat: no-repeat;
+}
+h1{
+    color: black;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 50px;
+    margin-inline-start: 600px;
+    transition: 1s
+}
+#dusty{
+    size: 91px, 142px;
+}
+.intro{
+    font-size: 40px;
+    font-weight: 200;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    transition: 1s;
+}
+.intro:hover{
+    font-size: 50px;
+}
+footer{
+    background-color: grey;
+}
